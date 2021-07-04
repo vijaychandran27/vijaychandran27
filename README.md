@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijaychandran27
 - 👀 I’m interested in Node JS, Microsoft Statck
-- 🌱 I’m currently learning .NET
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Learning Code
 - 📫 How to reach me @vijaychandran27
 
